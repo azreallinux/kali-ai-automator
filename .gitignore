@@ -1,0 +1,18 @@
+# Ignore sensitive files
+config.json
+activity.log
+
+# Ignore build files
+__pycache__/
+*.pyc
+*.pyo
+*.apk
+bin/
+gen/
+build/
+dist/
+
+# Android Studio files
+.idea/
+.gradle/
+local.properties
